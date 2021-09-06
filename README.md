@@ -8,6 +8,6 @@ exercise_1 - Sound compression using k-means clustering.
 
 exercise_2 - Wine quality classification using KNN, Perceptron and Passive Aggressive algorithms.
 
-exercise_3 and exercise_4 - Image classification on Fashion-MNIST dataset using different neural networks.
+exercise_3, exercise_4 - Image classification on Fashion-MNIST dataset using different neural networks.
 
 exercise_5 - Speech commands classification using CNN.
