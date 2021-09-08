@@ -1,13 +1,13 @@
 # Intro_to_Machine_Learning
 
-This repository has all 5 exercises from the course "Introduction to Machine Learning".
+This repository contains all 5 exercises of the course "Introduction to Machine Learning".
 
-The subjects are:
+The subjects of the exercises are:
 
-exercise_1 - Sound compression using k-means clustering.
+ex_1 - Sound compression using k-means clustering.
 
-exercise_2 - Wine quality classification using KNN, Perceptron and Passive Aggressive algorithms.
+ex_2 - Wine quality classification using KNN, Perceptron and Passive Aggressive algorithms.
 
-exercise_3, exercise_4 - Image classification on Fashion-MNIST dataset using different neural networks.
+ex_3, ex_4 - Image classification on Fashion-MNIST dataset using different neural networks.
 
-exercise_5 - Speech commands classification using CNN.
+ex_5 - Speech commands classification using CNN.
